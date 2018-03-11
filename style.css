@@ -95,9 +95,7 @@ html, body {
     width: 20%;
   }
 
-  p{
-    display: none;
-  }
+  
 }
 
 @media(max-height: 400px){
